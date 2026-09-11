@@ -30,9 +30,9 @@
 
 | 分类      | 具体内容                                  |
 | ------- | ------------------------------------- |
-| 编程语言    | Python、Java、C（请按实际情况增删）               |
-| 后端      | Flask、Spring Boot、MySQL（请按实际情况增删）     |
-| 前端      | HTML / CSS / JavaScript、Vue（请按实际情况增删） |
+| 编程语言    | Python、Java、C               |
+| 后端      | Flask、Spring Boot、MySQL     |
+| 前端      | HTML / CSS / JavaScript、Vue |
 | 数据 / AI | 数据处理基础、机器学习基础、大模型 API 调用              |
 | 工具      | Git、GitHub、PyCharm、Linux 基础           |
 
